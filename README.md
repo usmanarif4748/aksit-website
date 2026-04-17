@@ -1,1 +1,3 @@
-# aksit-website
+# AKSIT GLOBAL
+
+Welcome to the AKSIT GLOBAL project.
